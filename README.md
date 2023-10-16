@@ -35,14 +35,14 @@
 # 🎮 喜欢的游戏 Favourite Video Games
 
 - 陆行鸟赛车
-- 凯撒大帝 3 Ceaser3
-- Red Alert 2
-- CF 穿越火线
-- BnB 泡泡堂
-- Need for Speed 极品飞车 9、10
+- 凯撒大帝 | Caesar III
+- 红色警戒 | Red Alert 2
+- 穿越火线 | Cross Fire
+- 泡泡堂 | BnB
+- 极品飞车 | Need for Speed 9, 10
 - 热血物语
-- 超级玛丽 Super Mario
-- CS 1.5/1.6
-- 炉石传说
+- 超级玛丽 | Super Mario
+- 反恐精英 | Counter Strike 1.5, 1.6
+- 炉石传说 | Hearthstone
 - 火拼俄罗斯
 - 泡泡龙
