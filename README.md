@@ -21,9 +21,6 @@
 - Adaptive AUTOSAR
 - SOA、DDS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zijian-teng&hide=HTML,css,php&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zijian-teng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 兴趣爱好
 
@@ -46,3 +43,4 @@
 - 炉石传说 | Hearthstone
 - 火拼俄罗斯
 - 泡泡龙
+- 王国保卫战 | Kingdom Rush
